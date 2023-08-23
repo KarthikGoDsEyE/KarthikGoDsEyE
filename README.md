@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @KarthikGoDsEyE
-- 👀 I’m interested in ... Certified Ethical Hacking
-- 🌱 I’m currently learning ... Certified Ethical Hacker 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in ... Cyber Security and bug bounty
+- 🌱 I’m currently learning ... Real World Experience
+- 💞️ I’m looking to collaborate on ... bug Bounty and Project based on Bash/Shell Script 
+- 📫 How to reach me ... Email me karthikshibusince01@gmail.com
 
 <!---
 KarthikGoDsEyE/KarthikGoDsEyE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
